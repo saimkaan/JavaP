@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaP.iml" filepath="$PROJECT_DIR$/JavaP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PraktList/PraktList.iml" filepath="$PROJECT_DIR$/PraktList/PraktList.iml" />
+    </modules>
+  </component>
+</project>
