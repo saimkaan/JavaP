@@ -1,7 +1,7 @@
 import java.util.Date;
 
 /**
- * Created by saim on 03/05/16.
+ * Created by saim k on 03/05/16.
  */
 public class User {
 
